@@ -1,0 +1,6 @@
+- id: tfplugindocs
+  name: tfplugindocs
+  description: generate terraform provider docs
+  entry: run_tfplugindocs.sh
+  language: script
+  files: '\.go$'
